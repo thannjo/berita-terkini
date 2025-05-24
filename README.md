@@ -1,1 +1,113 @@
-# berita-terkini
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Remaja 19 Tahun Ditemukan Tewas - Padang Barat</title>
+  <style>
+    body {
+      font-family: Helvetica, Arial, sans-serif;
+      margin: 0;
+      background-color: #ffffff;
+      color: #222;
+    }
+    header {
+      background-color: #0047AB;
+      color: white;
+      padding: 10px 15px;
+    }
+    nav {
+      background-color: #f8f8f8;
+      padding: 10px 15px;
+      border-bottom: 1px solid #ddd;
+    }
+    nav a {
+      color: #222;
+      text-decoration: none;
+      margin-right: 15px;
+      font-size: 15px;
+    }
+    .container {
+      padding: 20px;
+    }
+    .title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #003399;
+      margin-bottom: 10px;
+    }
+    .byline {
+      color: #888;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .article-image {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+    .content p {
+      line-height: 1.7;
+      margin-bottom: 15px;
+    }
+    .highlight {
+      color: #0047AB;
+      font-weight: bold;
+    }
+    figure {
+      margin: 0;
+    }
+    figcaption {
+      font-size: 13px;
+      color: #666;
+      text-align: center;
+      margin-top: 5px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background-color: #f2f2f2;
+      font-size: 13px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>detikNews</h1>
+  </header>  <nav>
+    <a href="#">Home</a>
+    <a href="#">Berita</a>
+    <a href="#">Padang</a>
+    <a href="#">Nasional</a>
+    <a href="#">Hukum</a>
+  </nav>  <div class="container">
+    <div class="title">
+      Remaja 19 Tahun Ditemukan Tewas di Depan Rumah Kosong, Diduga Korban Penganiayaan
+    </div>
+    <div class="byline">
+      Oleh Tim detikNews | Padang Barat, 24 Mei 2025 05:00 WIB
+    </div><figure>
+  <img class="article-image" src="file-9qF2ue2JgFJWUu2eqg96xJ.jpg" alt="Petugas memeriksa lokasi penemuan korban">
+  <figcaption>
+    Foto: Petugas memeriksa lokasi penemuan jasad korban (24/5/2025)
+  </figcaption>
+</figure>
+
+<div class="content">
+  <p><span class="highlight">Padang Barat</span> – Seorang remaja laki-laki berusia 19 tahun, berinisial <strong>T</strong>, ditemukan tidak bernyawa di depan sebuah rumah kosong di kawasan Jalan Cendana, Padang Barat, Jumat (24/5) sekitar pukul 05.00 WIB.</p>
+
+  <p>Penemuan jasad korban pertama kali diketahui oleh warga yang hendak pergi ke masjid untuk salat Subuh. Korban ditemukan dalam kondisi mengenaskan dengan luka-luka yang diduga akibat penganiayaan.</p>
+
+  <p>Kapolsek Padang Barat, AKP Rinaldi, menyebut bahwa kasus ini sedang dalam penyelidikan. "Kami telah melakukan olah tempat kejadian perkara (TKP) dan saat ini jasad korban berada di RS Bhayangkara untuk proses autopsi," ujar Rinaldi.</p>
+
+  <p>Pihak keluarga korban yang ditemui di rumah duka meminta agar polisi mengusut tuntas kasus ini. "Kami minta keadilan. Anak saya tidak pernah terlibat masalah," ucap ibu korban sambil menahan tangis.</p>
+
+  <p>Hingga kini, polisi belum mengungkap motif serta pelaku yang diduga terlibat dalam kejadian tersebut.</p>
+</div>
+
+  </div>  <footer>
+    &copy; 2025 detikNews | Informasi aktual dan terpercaya
+  </footer>
+</body>
+</html>
